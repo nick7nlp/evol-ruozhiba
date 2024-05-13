@@ -1,12 +1,15 @@
 # evol-ruozhiba
 
-#### Source Question of "ruozhiba"
+#### 弱智吧问题来源 Source Question of "ruozhiba"
 
-[COIG-CQIA](https://github.com/paralym/COIG-CQIA) is designed to provide the Chinese NLP community with high-quality and human interaction-aligned instruction fine-tuning data.
+[COIG-CQIA](https://github.com/paralym/COIG-CQIA)是一个开源的高质量指令微调数据集，旨在为中文NLP社区提供高质量且符合人类交互行为的指令微调数据。COIG-CQIA以中文互联网获取到的问答及文章作为原始数据，经过深度清洗、重构及人工审核构建而成。数据集可以从[这里](https://huggingface.co/datasets/m-a-p/COIG-CQIA)获取。
+
+[COIG-CQIA](https://github.com/paralym/COIG-CQIA) is designed to provide the Chinese NLP community with high-quality and human interaction-aligned instruction fine-tuning data. 
+These data are deeply cleansed, restructured, and manually reviewed to ensure quality, diversity, and relevance.
 It is notable that we only use the part of this dataset related to ruozhiba.
 This dataset can be acquired from [here](https://huggingface.co/datasets/m-a-p/COIG-CQIA).
 
-#### 弱智吧问题广度扩展 Breadth Expansion of ruozhiba
+#### 广度扩展的提示 Prompt of Breadth Expansion
 
 -----------------------
 
@@ -30,7 +33,7 @@ This dataset can be acquired from [here](https://huggingface.co/datasets/m-a-p/C
 
 -----------------------
 
-#### 弱智吧问题深度扩展 Depth Expansion of ruozhiba
+#### 深度扩展的提示 Prompt of Depth Expansion
 
 -----------------------
 
