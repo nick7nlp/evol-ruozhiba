@@ -9,7 +9,7 @@ These data are deeply cleansed, restructured, and manually reviewed to ensure qu
 It is notable that we only use the part of this dataset related to ruozhiba.
 This dataset can be acquired from [here](https://huggingface.co/datasets/m-a-p/COIG-CQIA).
 
-### 广度扩展的提示 Prompt of Breadth Expansion
+### 广度扩展的问题 Question of Breadth Expansion
 
 -----------------------
 
@@ -33,7 +33,7 @@ This dataset can be acquired from [here](https://huggingface.co/datasets/m-a-p/C
 
 -----------------------
 
-### 深度扩展的提示 Prompt of Depth Expansion
+### 深度扩展的问题 Question of Depth Expansion
 
 -----------------------
 
