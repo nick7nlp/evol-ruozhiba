@@ -4,6 +4,7 @@
 
 [COIG-CQIA](https://github.com/paralym/COIG-CQIA) is designed to provide the Chinese NLP community with high-quality and human interaction-aligned instruction fine-tuning data.
 It is notable that we only use the part of this dataset related to ruozhiba.
+This dataset can be acquired from [here](https://huggingface.co/datasets/m-a-p/COIG-CQIA).
 
 #### 弱智吧问题广度扩展 Breadth Expansion of ruozhiba
 
