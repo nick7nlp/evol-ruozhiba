@@ -1,5 +1,12 @@
 # evol-ruozhiba
 
+### LLAMA3-70B 回答结果
+
+```
+evol_ruozhiba_question_gpt4_answer_llama3_70B_v1_format.txt
+```
+
+
 ### 弱智吧问题来源 Source Question of "ruozhiba"
 
 [COIG-CQIA](https://github.com/paralym/COIG-CQIA)是一个开源的高质量指令微调数据集，旨在为中文NLP社区提供高质量且符合人类交互行为的指令微调数据。COIG-CQIA以中文互联网获取到的问答及文章作为原始数据，经过深度清洗、重构及人工审核构建而成。数据集可以从[这里](https://huggingface.co/datasets/m-a-p/COIG-CQIA)获取。
