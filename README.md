@@ -2,9 +2,10 @@
 
 ### LLAMA3-70B 回答结果
 
-```
-evol_ruozhiba_question_gpt4_answer_llama3_70B_v1_format.txt
-```
+通过LLAMA3-70B获得的问题答案```evol_ruozhiba_question_gpt4_answer_llama3_70B_v1_format.txt```。
+
+其中，扩展问题的时，采用了```source_ruozhiba.jsonl```中的问题作为示例，示例数量为1-5，每个数量都随机采样并生成了1K条扩展问题。
+
 
 
 ### 弱智吧问题来源 Source Question of "ruozhiba"
